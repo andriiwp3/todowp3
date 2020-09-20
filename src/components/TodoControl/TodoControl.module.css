@@ -1,0 +1,14 @@
+.TodoControl {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 8px 20px;
+	border-bottom: 1px solid #ededed;
+}
+.completed {
+	font-weight: 500;
+	color: #01ad63;
+}
+.left {
+	
+}

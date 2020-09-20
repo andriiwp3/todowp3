@@ -1,0 +1,19 @@
+.Layout {
+   width: 100%;
+   min-height: 100%;
+   overflow: hidden;
+}
+
+.container {
+	padding-top: 20px;
+	padding-bottom: 120px;
+}
+
+.title {
+	color: rgba(175, 47, 47, 0.15);
+	font-weight: 700;
+	font-size: 86px;
+	text-align: center;
+	letter-spacing: 10px;
+	margin: 0px 0px 40px 0px;
+}

@@ -1,0 +1,23 @@
+button {
+	background-color: transparent;
+}
+.delete {
+	width: 15px;
+	color: #cc9a9a;
+}
+.delete svg {
+	transition: color .2s ease-in;
+}
+.delete:hover {
+	color: #bb5151;
+}
+.add {
+	width: 24px;
+	margin: 0px 15px 0px 0px;
+	color: #4d4d4d;
+	opacity: .5;
+	transition: opacity, transform .2s, .4s ease-in;
+}
+.add:hover {
+	opacity: 1;
+}
